@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+}
+
+.links {
+    background: white;
+    text-align: right;
+    margin: 5px;
+    display: block;
+    height: 50px;
+    font-size: small;
+}
+
+#Gmail {
+    margin: 5px;
+    float: right;
+    padding-top: 8px;
+    margin-right: 15px;
+    color: rgb(75, 75, 75);
+    font-style: normal;
+    text-decoration: none;
+}
+
+#Imagenes {
+    margin: 5px;
+    float: right;
+    padding-top: 8px;
+    margin-right: 15px;
+    color: rgb(75, 75, 75);
+    font-style: normal;
+    text-decoration: none;
+}
+
+#apps {
+    margin: 5px;
+    float: right;
+    width: 25px;
+    padding-top: 3px;
+    margin-right: 15px;
+
+}
+
+#logo_user {
+    margin: 5px;
+    float: right;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 15px;
+
+}
+
+#none {
+    clear: both;
+}
+
+.centro {
+    margin: auto;
+    width: auto;
+    display: block;
+    justify-content: center;
+    margin-top: 110px;
+}
+
+#Logo {
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.box {
+    border: 1px solid rgb(190, 190, 190);
+    margin: auto;
+    padding: 5px 20px;
+    justify-content: center;
+    border-radius: 25px;
+    width: 450px;
+}
+
+#lupa {
+    float: left;
+    height: 22px;
+}
+
+#caja {
+    display: inline;
+    width: 86%;
+    font-size: larger;
+    outline: none;
+    border: 0;
+    padding-left: 10px;
+}
+
+#microfono {
+    float: right;
+    height: 22px;
+}
+
+#none_box {
+    clear: both;
+}
+
+.buscar {
+    display: block;
+    text-align: center;
+    margin-top: 45px;
+}
+
+#buscar {
+    margin: 20px 3px;
+    padding: 15px;
+    background: rgba(234, 238, 240, 0.644);
+    color: rgb(51, 51, 51);
+    font-size: smaller;
+    border-radius: 10px;
+}
+
+#siento_suerte {
+    margin: 20px 3px;
+    padding: 15px;
+    background: rgba(234, 238, 240, 0.644);
+    color: rgb(51, 51, 51);
+    font-size: smaller;
+    border-radius: 10px;
+
+}
+
+.language {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    font-size: small;
+}
+
+#p {
+    display: inline-block;
+}
+
+#English {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#Quechua {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+
+footer {
+    position: fixed;
+    display: block;
+    background: rgba(234, 238, 240, 0.644);
+    bottom: 0px;
+    width: 100%;
+}
+
+#peru {
+    padding: 10px 30px;
+    color: gray;
+    background: rgba(234, 238, 240, 0.644);
+    border-bottom: 1px solid rgb(153, 153, 153);
+
+}
+
+.right {
+    float: right;
+    padding: 15px 20px;
+    padding-right: 20px;
+    padding-left: 0px;
+    color: gray;
+    font-size: smaller;
+}
+
+#preferencia {
+    padding-right: 40px;
+}
+
+#sobre {
+    padding-left: 40px ;
+}
+
+.left {
+    float: left;
+    padding: 15px 20px;
+    padding-left: 20px;
+    padding-right: 0px;
+    color: gray;
+    font-size: smaller;
+}
+
+#none_foot {
+    clear: both;
+}
+
